@@ -1,1 +1,3 @@
-Notifications worldwide, sensors in kuwait => notification in egypt
+Blynk application
+Worldwide notifications  
+sensors in kuwait => notifications in egypt
